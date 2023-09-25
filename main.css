@@ -1,0 +1,58 @@
+.canvas {
+    width: 720px;
+    height: 1280px;
+    background-color: #1f5fdf;
+    padding: 20px 20px 20px 20px;
+}
+
+.img-thumbnail {
+    display: block;
+    min-width: 120px;
+    height: auto;
+}
+
+#name {
+    font-family: "Arial Bold", sans-serif;
+    color:white;
+    text-align: center;
+    padding: 32px 0px 0px 96px;
+}
+
+.container {
+    margin: 20px;
+}
+
+.h5 {
+    font-size: 16px;
+}
+
+p, td {
+    font-size: 12px;
+    width: auto;
+    height: auto;
+    font-family: "Arial", sans-serif;
+    color:white;
+    padding: 16px 0px 0px 16px;
+}
+
+.list {
+    width: auto;
+    height: auto;
+    border: 1px solid transparent;
+    padding: 0px 40px 10px 40px;
+}
+
+.classification {
+    width: 200px;
+    height: auto;
+    float: left;
+}
+
+.name {
+    width: auto;
+    height: auto;
+}
+
+.paragraph {
+    padding: 0px 0px 0px 16px;
+}
